@@ -1,0 +1,6 @@
+- Add last bonus rush00
+- Finish rush 01 and 02
+- Make BSQ
+- Link all projects to this repository
+- Add subjects to all projects
+- Fix all projects to have them 100% right
