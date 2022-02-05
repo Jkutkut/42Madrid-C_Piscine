@@ -1,8 +1,8 @@
-# 42Madrid-C_Piscine:
+# 42Madrid C_Piscine:
 
-Here you can find the projects of the 42Madrid C_Piscine.
+Here you can find my implementation of 42Madrid C_Piscine. The code can have modifications over time to implement new logic or fix some errors.
 
-The piscine was made in November-December 2021.
+This piscine was made in November-December 2021.
 
 ## [C_Piscine_Shell_00](https://github.com/Jkutkut/42Madrid-C_Piscine_Shell_00)
 - [Subject](./subjects/en.shell-00.pdf)
@@ -38,3 +38,4 @@ The piscine was made in November-December 2021.
 - [Subject](./subjects/en.rush-02.pdf)
 <!-- ## [C_Piscine_Bsq](https://github.com/Jkutkut/42Madrid-C_Piscine_Bsq)
 - [Subject](./subjects/en.bsq.pdf) -->
+
