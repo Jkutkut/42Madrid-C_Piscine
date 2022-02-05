@@ -6,6 +6,8 @@ This piscine was made in November-December 2021.
 
 ## Projects:
 
+	sh -c "$(wget https://raw.github.com/jkutkut/42Madrid-C_Piscine/master/clonePiscine.sh -O -)"
+
 | project | subject |
 | :---: | :---: |
 | [C_Piscine_Shell_00](https://github.com/Jkutkut/42Madrid-C_Piscine_Shell_00) | [Subject](./subjects/en.shell-00.pdf) |
