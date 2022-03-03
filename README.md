@@ -13,8 +13,10 @@ This piscine was made in November-December 2021.
 | [C_Piscine_Shell_00](https://github.com/Jkutkut/42Madrid-C_Piscine_Shell_00) | [Subject](./subjects/en.shell-00.pdf) |
 | [C_Piscine_Shell_01](https://github.com/Jkutkut/42Madrid-C_Piscine_Shell_01) | [Subject](./subjects/en.shell-01.pdf) |
 | [C_Piscine_C_00](https://github.com/Jkutkut/42Madrid-C_Piscine_C_00) | [Subject](./subjects/en.c-00.pdf) |
+| [C_Piscine_C_01](https://github.com/Jkutkut/42Madrid-C_Piscine_C_01) | [Subject](./subjects/en.c-01.pdf) |
 | [C_Piscine_C_02](https://github.com/Jkutkut/42Madrid-C_Piscine_C_02) | [Subject](./subjects/en.c-02.pdf) |
 | [C_Piscine_C_03](https://github.com/Jkutkut/42Madrid-C_Piscine_C_03) | [Subject](./subjects/en.c-03.pdf) |
+| [C_Piscine_C_04](https://github.com/Jkutkut/42Madrid-C_Piscine_C_04) | [Subject](./subjects/en.c-04.pdf) |
 | [C_Piscine_C_05](https://github.com/Jkutkut/42Madrid-C_Piscine_C_05) | [Subject](./subjects/en.c-05.pdf) |
 | [C_Piscine_C_06](https://github.com/Jkutkut/42Madrid-C_Piscine_C_06) | [Subject](./subjects/en.c-06.pdf) |
 | [C_Piscine_C_07](https://github.com/Jkutkut/42Madrid-C_Piscine_C_07) | [Subject](./subjects/en.c-07.pdf) |
