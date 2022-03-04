@@ -22,3 +22,7 @@ sshMultiClone() {
 sshMultiClone "Shell" "00" "01"
 sshMultiClone "C" "01" "08"
 sshMultiClone "Rush" "00" "02"
+
+if [ ! -d "42Madrid-C_Piscine" ];
+	git clone git@github.com:Jkutkut/42Madrid-C_Piscine.git
+fi
